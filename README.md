@@ -1,6 +1,6 @@
 # Stock Prediction
 
-## Task : Using Deep learning LTMS, predict samsung electronics stock.
+## Task : Using Deep learning LSTM, predict samsung electronics stock.
 
 ## Date : 2021 winter vacation
 
